@@ -1,0 +1,39 @@
+/*----------------color-----------*/
+background: #1A232C;
+color: #20C863;
+
+
+/*----------------font family-----------*/
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+font-family: 'Open Sans', sans-serif;
+font-family: 'Pacifico', cursive;
+
+
+/*----------------image-----------*/
+<img src="https://img.icons8.com/ios-filled/50/ffffff/web.png"/>
+<img src="https://img.icons8.com/ios/50/ffffff/venn-diagram.png"/>                </div>
+<img src="https://img.icons8.com/ios-glyphs/60/ffffff/design.png"/>                </div>
+<img src="https://img.icons8.com/dotty/80/ffffff/broken-phone.png" />
+
+/*----------------icon-----------*/
+<i class="fas fa-circle"></i>
+
+<i class="icon fas fa-briefcase"></i>
+<i class="icon fas fa-graduation-cap"></i>
+<i class="icon fas fa-book-open"></i>
+<i class="icon fab fa-acquisitions-incorporated"></i>
+
+<i class="fas fa-quote-right"></i>
+
+<i class="fas fa-phone-alt"></i>
+<i class="fas fa-envelope-open-text"></i>
+<i class="fab fa-facebook-f"></i>
+<i class="fab fa-twitter"></i>
+<i class="fab fa-linkedin-in"></i>
+
+
+
+<i class="fa fa-map"></i>
+<i class="fa fa-phone"></i>
+<i class="fa fa-envelope"></i>
